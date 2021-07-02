@@ -29,7 +29,7 @@ if not pcall(function() return syn.protect_gui end) then
 end
 
 --// UI Library \\--
-local Library = loadstring(game:HttpGetAsync('https://pastebin.com/raw/edJT9EGX'))()
+local Library = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/makor444Dev/makor444hub/main/Strong2.txt'))()
 local Window = Library:CreateWindow("AutoFarm by makor444")
 
 --// Exploit Check \\--
